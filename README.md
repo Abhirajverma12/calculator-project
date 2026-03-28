@@ -29,3 +29,13 @@ A fully functional and responsive calculator web application built using HTML, C
 - Deploying projects using Vercel
 
 ## 📂 Project Structure
+
+calculator-project/
+│── index.html      # Contains layout and UI structure  
+│── style.css       # Handles styling, responsiveness & themes  
+│── script.js       # Handles logic, calculations & events  
+│── README.md       # Project documentation  
+
+
+## 🙌 Author
+- Abhiraj Verma
